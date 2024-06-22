@@ -1,0 +1,1 @@
+# sca_lamp_stack_cloudformation
